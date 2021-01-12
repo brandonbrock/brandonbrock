@@ -2,7 +2,7 @@
 
 ## I'm a MSc Computing Systems student at Nottingham Trent
 
-- 🔭 I’m currently working on a C# program that calculates a persons mortgage 
+- 🔭 I’m currently working on a Kotlin Mobile Application and a C# Database Program
 - 📫 How to reach me: You can contact me via [Linkedin](https://www.linkedin.com/in/brandonbrock1998/) or [Email](mailto:brandonbrock1998@gmail.com)
 - ⚡ Fun fact: I play lacrosse at University with no prior experience as a beginner
 
