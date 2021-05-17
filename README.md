@@ -2,7 +2,7 @@
 
 ## I'm a MSc Computing Systems student at Nottingham Trent
 
-- 🔭 I’m currently working on a Kotlin Mobile Application and a C# Database Program
+- 🔭 I’m currently working on a Car Parking Community App and an Unity game project!
 - 📫 How to reach me: You can contact me via [Linkedin](https://www.linkedin.com/in/brandonbrock1998/) or [Email](mailto:brandonbrock1998@gmail.com)
 - ⚡ Fun fact: I play lacrosse at University with no prior experience as a beginner
 
